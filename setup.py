@@ -100,7 +100,7 @@ def main():
             'sdist'         : CustomSDistCommand,
         },
         install_requires    = [
-            'pytest==3.6.2'
+            'pytest==3.6.1'
         ],
         extras_require      = {
             'develop'       : [
